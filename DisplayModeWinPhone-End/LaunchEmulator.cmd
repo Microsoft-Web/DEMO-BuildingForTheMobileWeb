@@ -1,0 +1,1 @@
+ "%ProgramFiles(x86)%\Microsoft XDE\8.0\xde.exe" -createDiffDisk "%LOCALAPPDATA%\Microsoft\XDE\dd.480x800.1024.vhd" -vhd "%ProgramFiles(x86)%\Microsoft SDKs\Windows Phone\v8.0\Emulation\Images\Flash.480x800.vhd" -name "Emulator WVGA" -memsize 1024

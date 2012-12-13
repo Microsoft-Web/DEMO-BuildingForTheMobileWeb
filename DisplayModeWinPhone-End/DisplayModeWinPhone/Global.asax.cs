@@ -29,8 +29,7 @@ namespace DisplayModeWinPhone
             DisplayModeProvider.Instance.Modes.Insert(0,
                 new DefaultDisplayMode("WinPhone")
                 {
-                    ContextCondition = (c => c.Request.UserAgent.IndexOf("o") > 0)
-                    //ContextCondition = (c => c.Request.UserAgent.IndexOf("Windows Phone OS") > 0)
+                    ContextCondition = (c => c.Request.UserAgent.IndexOf("Windows Phone") > 0)
                 });
         }
     }
