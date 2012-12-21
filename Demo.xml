@@ -10,7 +10,7 @@
   <Document ConversionType="Html">Demo.md</Document>
   <Title>Building for the Mobile Web</Title>
   <Version>1.0.0</Version>
-  <Source></Source>
+  <Source>.\source</Source>
   <DependencyChecker></DependencyChecker>
   <CustomProperties>
     <Property Name="GitHubRepository" Value="https://github.com/Microsoft-Web/DEMO-BuildingForTheMobileWeb" />
