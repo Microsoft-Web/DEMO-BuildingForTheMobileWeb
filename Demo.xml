@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Demo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>BuildingForTheMobileWeb</Id>
+  <Author>
+    <Name>Jon Galloway</Name>
+    <Blog>http://weblogs.asp.net/jgalloway</Blog>
+    <Email>jon.galloway@microsoft.com</Email>
+  </Author>
+  <Description>This demo shows how to use a custom display mode to for Windows Phone.</Description>
+  <Document ConversionType="Html">Demo.md</Document>
+  <Title>Building for the Mobile Web</Title>
+  <Version>1.0.0</Version>
+  <Source></Source>
+  <DependencyChecker></DependencyChecker>
+  <CustomProperties>
+    <Property Name="GitHubRepository" Value="https://github.com/Microsoft-Web/DEMO-BuildingForTheMobileWeb" />
+  </CustomProperties>
+</Demo>
