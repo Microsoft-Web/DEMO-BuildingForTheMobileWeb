@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Demo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
-  <Id>BuildingForTheMobileWeb</Id>
+  <Id>BuildingForTheMobileWeb-Demo</Id>
   <Author>
     <Name>Jon Galloway</Name>
     <Blog>http://weblogs.asp.net/jgalloway</Blog>
